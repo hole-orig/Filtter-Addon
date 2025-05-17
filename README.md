@@ -63,7 +63,7 @@ In the extension, I do not perform the information transmission to the use serve
 About the handling of an extension or the personal information, please refer in the following e-mail address.
 拡張機能、又は個人情報の取扱いに関しては、下記のメールアドレスにてお問い合わせください。
 
-メールアドレス/mail address：hole_orig@outlook.com
+メールアドレス/mail address：hole_orig@outlook.com/holr.orig@gmail.com
 
 ## Development day/策定日
 令和6年6月13日　策定  
