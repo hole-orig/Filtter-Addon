@@ -1,0 +1,32 @@
+html,
+body {
+  min-width: 200px;
+  width:device-width;
+}
+
+button {
+  border: none;
+  align: center;
+  width: 90%;
+  margin: 5% auto;
+  padding: 4px;
+  text-align: center;
+  font-size: 6vw;
+  cursor: pointer;
+  background-color: #E5F2F2;
+}
+
+button:hover {
+  background-color: #CFF2F2;
+}
+
+p {
+  border: none;
+  align: center;
+  width: 90%;
+  margin: 5% auto;
+  padding: 4px;
+  text-align: center;
+  font-size: 6vw;
+  cursor: pointer;
+}
